@@ -1,0 +1,44 @@
+/* Write your CSS below. Try to make it responsive (i.e. no horizontal scroll) */
+.food-p{
+    text-align: left;
+}
+
+body{
+    background-color:white;
+    text-center:inline;
+    text-align: center;
+    max-width: 500px;
+  margin: auto;
+
+}
+nav ul{
+    text-align:right;
+    list-style:none;
+    display: block;
+    margin:auto;
+  
+
+}
+}
+img{
+    border-color: 2px solid grey;
+}
+h1{
+    font-size:  1em;
+    text-emphasis: speacing;
+}
+h6{
+    color:grey;
+}
+button{
+    background:  red;
+    padding:10px  55px ;
+    border:none;
+    color:white;
+}
+button:hover{
+    background:#ed4b74
+}
+imag{
+    border-color:yellow;
+}
